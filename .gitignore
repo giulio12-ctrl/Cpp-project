@@ -1,0 +1,39 @@
+# Executables
+program
+a.out
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# Build directories
+build/
+bin/
+debug/
+release/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Compiled Object files
+*.slo
+*.lo
+*.ko
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.so
+*.dylib
+*.dll
